@@ -27,9 +27,9 @@ This package is part of the <b>⚡storm-themes</b> monorepo. The storm-themes pa
 
 <!-- END header -->
 
-# impact
+# Impact
 
-A package containing the Impact theme design tokens
+A package containing the **Impact** theme design tokens. This is the primary theme used by Storm Software applications.
 
 <!-- START doctoc -->
 <!-- END doctoc -->

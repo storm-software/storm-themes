@@ -1,25 +1,24 @@
-<div align="center"><img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/logo-banner.png" width="100%" altText="storm-ops" /></div>
+<div align="center"><img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/storm-banner.gif" width="100%" alt="Storm Software" /></div>
 
 <br />
 <div align="center">
-<a href="https://stormsoftware.org" target="_blank">Website</a>  |  <a href="https://stormsoftware.org/contact" target="_blank">Contact</a>  |  <a href="https://github.com/storm-themes/storm-themes" target="_blank">Repository</a>  |  <a href="https://github.com/storm-themes/storm-themes/issues/new?assignees=&labels=bug&template=bug-report.yml&title=Bug Report%3A+">Report a Bug</a> | <a href="https://github.com/storm-themes/storm-themes/issues/new?assignees=&labels=enhancement&template=feature-request.yml&title=Feature Request%3A+">Request a Feature</a> | <a href="https://github.com/storm-themes/storm-themes/issues/new?assignees=&labels=documentation&template=documentation.yml&title=Documentation Request%3A+">Request Documentation</a> | <a href="https://github.com/storm-themes/storm-themes/discussions">Ask a Question</a>
+<a href="https://stormsoftware.org" target="_blank">Website</a>  |  <a href="https://stormsoftware.org/contact" target="_blank">Contact</a>  |  <a href="https://github.com/storm-software/storm-stack" target="_blank">Repository</a>  |  <a href="https://storm-software.github.io/storm-stack/" target="_blank">Documentation</a>  |  <a href="https://github.com/storm-software/storm-stack/issues/new?assignees=&labels=bug&template=bug-report.yml&title=Bug Report%3A+">Report a Bug</a> | <a href="https://github.com/storm-software/storm-stack/issues/new?assignees=&labels=enhancement&template=feature-request.yml&title=Feature Request%3A+">Request a Feature</a>  |  <a href="https://github.com/storm-software/storm-stack/discussions">Ask a Question</a>
 </div>
 
 <br />
-<h1>Storm Themes</h1>
-⚡ The Storm Themes monorepo contains various themes/design tokens used by Storm Software
+⚡ The <b>Storm Themes</b> monorepo contains various themes/design tokens used by the Storm Software organization. Please feel free to use these themes in your own projects.
 <br /><br />
-⚡<b>Storm Workspaces</b> are built using <a href="https://nx.dev/" target="_blank">Nx</a>, a set of extensible dev tools for monorepos, which helps you develop like Google, Facebook, and Microsoft. Building on top of Nx, the Open System provides a set of tools and patterns that help you scale your monorepo to many teams while keeping the codebase maintainable.
+⚡ <b>Storm Workspaces</b> are built using <a href="https://nx.dev/" target="_blank">Nx</a>, a set of extensible dev tools for monorepos, which helps you develop like Google, Facebook, and Microsoft. Building on top of Nx, the Open System provides a set of tools and patterns that help you scale your monorepo to many teams while keeping the codebase maintainable.
 
 <h3 align="center">💻 Visit <a href="https://stormsoftware.org" target="_blank">stormsoftware.org</a> to stay up to date with this developer</h3><br />
 
-[![github](https://img.shields.io/github/package-json/v/storm-themes/storm-themes?style=for-the-badge&color=1fb2a6)](https://github.com/storm-themes/storm-themes)&nbsp;[![Nx](https://img.shields.io/badge/Nx-17.0.2-lightgrey?style=for-the-badge&logo=nx&logoWidth=20&&color=1fb2a6)](http://nx.dev/)&nbsp;[![NextJs](https://img.shields.io/badge/Next.js-14.0.2-lightgrey?style=for-the-badge&logo=nextdotjs&logoWidth=20&color=1fb2a6)](https://nextjs.org/)&nbsp;[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=for-the-badge&logo=commitlint&color=1fb2a6)](http://commitizen.github.io/cz-cli/)&nbsp;![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=for-the-badge&color=1fb2a6)&nbsp;![documented with docusaurus](https://img.shields.io/badge/documented_with-docusaurus-success.svg?style=for-the-badge&logo=readthedocs&color=1fb2a6)&nbsp;![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/storm-themes/storm-themes/build-release.yml?style=for-the-badge&logo=github-actions&color=1fb2a6)
+[![github](https://img.shields.io/github/package-json/v/storm-software/storm-stack?style=for-the-badge&color=1fb2a6)](https://github.com/storm-software/storm-stack)&nbsp;[![Nx](https://img.shields.io/badge/Nx-17.0.2-lightgrey?style=for-the-badge&logo=nx&logoWidth=20&&color=1fb2a6)](http://nx.dev/)&nbsp;[![NextJs](https://img.shields.io/badge/Next.js-14.0.2-lightgrey?style=for-the-badge&logo=nextdotjs&logoWidth=20&color=1fb2a6)](https://nextjs.org/)&nbsp;[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=for-the-badge&logo=commitlint&color=1fb2a6)](http://commitizen.github.io/cz-cli/)&nbsp;![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=for-the-badge&color=1fb2a6)&nbsp;![documented with docusaurus](https://img.shields.io/badge/documented_with-docusaurus-success.svg?style=for-the-badge&logo=readthedocs&color=1fb2a6)&nbsp;![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/storm-software/storm-stack/build-release.yml?style=for-the-badge&logo=github-actions&color=1fb2a6)
 
 <h3 align="center" bold="true">⚠️ <b>Attention</b> ⚠️ This repository, and the apps, libraries, and tools contained within, is still in it's initial development phase. As a result, bugs and issues are expected with it's usage. When the main development phase completes, a proper release will be performed, the packages will be availible through NPM (and other distributions), and this message will be removed. However, in the meantime, please feel free to report any issues you may come across.</h3><br />
 
 <!--#if GitHubActions-->
 
-[![GitHub Actions Build History](https://buildstats.info/github/chart/storm-themes/storm-themes?branch=main&includeBuildsFromPullRequest=false)](https://github.com/storm-themes/storm-themes/actions)
+[![GitHub Actions Build History](https://buildstats.info/github/chart/storm-software/storm-stack?branch=main&includeBuildsFromPullRequest=false)](https://github.com/storm-software/storm-stack/actions)
 
 <!--#endif-->
 
@@ -82,9 +81,9 @@ The following are some of the features/publishable code that are included in thi
 
 # Getting Started
 
-Once the code is pulled locally, open a command prompt and run `pnpm install` in the root repo directory (/storm-ops).
+Once the code is pulled locally, open a command prompt and run `pnpm install` in the root repo directory (/storm-stack).
 
-More information can be found in the [Open System documentation](https://storm-software.github.io/storm-ops/docs/getting-started/installation).
+More information can be found in the [Open System documentation](https://storm-software.github.io/storm-stack/docs/getting-started/installation).
 
 ## Build
 
@@ -99,7 +98,7 @@ Run `pnpm serve` for a dev server. Navigate to <http://localhost:4200/>. The app
 
 In StormStack, ⚡ _acidic_ refers to a collection of applications and libraries that are used to build server-side code from a user-defined model. This functionality all lives in the Storm monorepo's `tools` directory (/tools/acidic).
 
-<div align="center"><img src="https://pub-e71cff0f90204755bc910518d63cacf8.r2.dev/storm-generate.bg.png" width="800px" /></div>
+<div align="center"><img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/acidic-generate-flow.png" width="800px" alt="Acidic Flow" /></div>
 <br />
 
 More information can be found in the [📓 Documentation](https://acidicjs.com/docs).
@@ -142,11 +141,11 @@ Run `nx g @storm-software/workspace:lib my-lib` to generate a library.
 
 > You can also use any of the plugins above to generate libraries as well.
 
-Libraries are shareable across libraries and applications. They can be imported from `@storm-ops/my-lib`.
+Libraries are shareable across libraries and applications. They can be imported from `@storm-stack/my-lib`.
 
 ## Code Scaffolding
 
-Run `nx g @nx/react:component my-component --project=storm-ops` to generate a new component.
+Run `nx g @nx/react:component my-component --project=storm-stack` to generate a new component.
 <br /><br />
 
 # Testing
@@ -174,7 +173,7 @@ Run `pnpm graph` to see a diagram of the dependencies of the Open System project
 
 Nx caches the output of any previously run command such as testing and building, so it can replay the cached results instead of rerunning it. Nx Cloud allows you to share the computation cache across everyone in your team and CI.
 
-<p align="center"><img src="https://pub-4661138852db4e5da99a6660fbf9b633.r2.dev/Nx Cloud - Dashboard.png" width="100%" altText="Nx Cloud - Dashboard" /></p>
+<p align="center"><img src="https://pub-4661138852db4e5da99a6660fbf9b633.r2.dev/Nx Cloud - Dashboard.png" width="100%" alt="Nx Cloud - Dashboard" /></p>
 
 ## Distributed Computation Caching & Distributed Task Execution
 
@@ -187,11 +186,11 @@ Visit [Nx Cloud](https://nx.app/) to learn more.
 
 # Roadmap
 
-See the [open issues](https://github.com/storm-themes/storm-themes/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/storm-software/storm-stack/issues) for a list of proposed features (and known issues).
 
-- [Top Feature Requests](https://github.com/storm-themes/storm-themes/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Top Bugs](https://github.com/storm-themes/storm-themes/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Newest Bugs](https://github.com/storm-themes/storm-themes/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+- [Top Feature Requests](https://github.com/storm-software/storm-stack/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Top Bugs](https://github.com/storm-software/storm-stack/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Newest Bugs](https://github.com/storm-software/storm-stack/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
   <br /><br />
 
 # Contributing
@@ -207,7 +206,7 @@ Please try to create bug reports that are:
 
 Please adhere to this project's [code of conduct](.github/CODE_OF_CONDUCT.md).
 
-You can use [markdownlint-cli](https://github.com/storm-themes/storm-themes/markdownlint-cli) to check for common markdown style inconsistency.
+You can use [markdownlint-cli](https://github.com/storm-software/storm-stack/markdownlint-cli) to check for common markdown style inconsistency.
 <br /><br />
 
 # Support
@@ -215,7 +214,7 @@ You can use [markdownlint-cli](https://github.com/storm-themes/storm-themes/mark
 Reach out to the maintainer at one of the following places:
 
 - [Contact](https://stormsoftware.org/contact)
-- [GitHub discussions](https://github.com/storm-themes/storm-themes/discussions)
+- [GitHub discussions](https://github.com/storm-software/storm-stack/discussions)
 - <contact@stormsoftware.org>
 
 # License
@@ -234,7 +233,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.sullypat.com/"><img src="https://avatars.githubusercontent.com/u/99053093?v=4?s=100" width="100px;" alt="Patrick Sullivan"/><br /><sub><b>Patrick Sullivan</b></sub></a><br /><a href="#design-sullivanpj" title="Design">🎨</a> <a href="https://github.com/storm-themes/storm-themes/commits?author=sullivanpj" title="Code">💻</a> <a href="#tool-sullivanpj" title="Tools">🔧</a> <a href="https://github.com/storm-themes/storm-themes/commits?author=sullivanpj" title="Documentation">📖</a> <a href="https://github.com/storm-themes/storm-themes/commits?author=sullivanpj" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.sullypat.com/"><img src="https://avatars.githubusercontent.com/u/99053093?v=4?s=100" width="100px;" alt="Patrick Sullivan"/><br /><sub><b>Patrick Sullivan</b></sub></a><br /><a href="#design-sullivanpj" title="Design">🎨</a> <a href="https://github.com/storm-software/storm-stack/commits?author=sullivanpj" title="Code">💻</a> <a href="#tool-sullivanpj" title="Tools">🔧</a> <a href="https://github.com/storm-software/storm-stack/commits?author=sullivanpj" title="Documentation">📖</a> <a href="https://github.com/storm-software/storm-stack/commits?author=sullivanpj" title="Tests">⚠️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://tylerbenning.com/"><img src="https://avatars.githubusercontent.com/u/7265547?v=4?s=100" width="100px;" alt="Tyler Benning"/><br /><sub><b>Tyler Benning</b></sub></a><br /><a href="#design-tbenning" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://stormsoftware.org"><img src="https://avatars.githubusercontent.com/u/149802440?v=4?s=100" width="100px;" alt="Stormie"/><br /><sub><b>Stormie</b></sub></a><br /><a href="#maintenance-stormie-bot" title="Maintenance">🚧</a></td>
     </tr>
