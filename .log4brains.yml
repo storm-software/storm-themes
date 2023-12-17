@@ -1,0 +1,5 @@
+project:
+  name: windie
+  tz: America/New_York
+  adrFolder: ./docs/decisions
+  packages: []
