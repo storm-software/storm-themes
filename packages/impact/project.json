@@ -1,0 +1,58 @@
+{
+  "name": "impact",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "library",
+  "sourceRoot": "packages/impact/src",
+  "targets": {
+    "build": {
+      "executor": "@storm-software/workspace-tools:tsup-neutral",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "entry": "packages/impact/src/index.ts",
+        "outputPath": "dist/packages/impact",
+        "tsConfig": "packages/impact/tsconfig.json",
+        "project": "packages/impact/package.json",
+        "defaultConfiguration": "production",
+        "assets": [
+          {
+            "input": "packages/impact",
+            "glob": "*.md",
+            "output": "/"
+          },
+          {
+            "input": "",
+            "glob": "LICENSE",
+            "output": "/"
+          },
+          {
+            "input": "packages/impact/src",
+            "glob": "tokens.json",
+            "output": "/"
+          }
+        ],
+        "platform": "neutral"
+      },
+      "configurations": {
+        "production": {
+          "debug": false,
+          "verbose": false
+        },
+        "development": {
+          "debug": true,
+          "verbose": true
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nx/eslint:lint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": [
+          "packages/impact/**/*.ts",
+          "{projectRoot}/package.json"
+        ]
+      }
+    },
+    "test": {}
+  }
+}

@@ -6,8 +6,8 @@
 </div>
 
 <br />
-<h1>windie</h1>
-⚡ The windie monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.
+<h1>Storm Themes</h1>
+⚡ The storm-themes monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.
 <br /><br />
 ⚡<b>Storm Workspaces</b> are built using <a href="https://nx.dev/" target="_blank">Nx</a>, a set of extensible dev tools for monorepos, which helps you develop like Google, Facebook, and Microsoft. Building on top of Nx, the Open System provides a set of tools and patterns that help you scale your monorepo to many teams while keeping the codebase maintainable.
 

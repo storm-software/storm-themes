@@ -5,7 +5,10 @@
   "compilerOptions": {
     "rootDir": ".",
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@storm-themes/impact": ["packages/impact/src/index.ts"],
+      "@storm-themes/impact/*": ["packages/impact/src/*"]
+    }
   },
   "references": []
 }
