@@ -5,7 +5,7 @@
   "description": "⚡ The storm-themes monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.",
   "repository": {
     "type": "github",
-    "url": "https://github.com/storm-software/windie.git",
+    "url": "https://github.com/storm-software/storm-themes.git",
     "directory": "packages/impact"
   },
   "type": "module",

@@ -7,11 +7,11 @@
 
 <br />
 <div align="center">
-<a href="https://stormsoftware.org" target="_blank">Website</a>  |  <a href="https://stormsoftware.org/contact" target="_blank">Contact</a>  |  <a href="https://github.com/storm-software/windie" target="_blank">Repository</a>  |  <a href="https://stormstack.github.io/stormstack/" target="_blank">Documentation</a>  |  <a href="https://github.com/storm-software/windie/issues/new?assignees=&labels=bug&template=bug-report.yml&title=Bug Report%3A+">Report a Bug</a> | <a href="https://github.com/storm-software/windie/issues/new?assignees=&labels=enhancement&template=feature-request.yml&title=Feature Request%3A+">Request a Feature</a> | <a href="https://github.com/storm-software/windie/issues/new?assignees=&labels=documentation&template=documentation.yml&title=Documentation Request%3A+">Request Documentation</a> | <a href="https://github.com/storm-software/windie/discussions">Ask a Question</a>
+<a href="https://stormsoftware.org" target="_blank">Website</a>  |  <a href="https://stormsoftware.org/contact" target="_blank">Contact</a>  |  <a href="https://github.com/storm-software/storm-themes" target="_blank">Repository</a>  |  <a href="https://stormstack.github.io/stormstack/" target="_blank">Documentation</a>  |  <a href="https://github.com/storm-software/storm-themes/issues/new?assignees=&labels=bug&template=bug-report.yml&title=Bug Report%3A+">Report a Bug</a> | <a href="https://github.com/storm-software/storm-themes/issues/new?assignees=&labels=enhancement&template=feature-request.yml&title=Feature Request%3A+">Request a Feature</a> | <a href="https://github.com/storm-software/storm-themes/issues/new?assignees=&labels=documentation&template=documentation.yml&title=Documentation Request%3A+">Request Documentation</a> | <a href="https://github.com/storm-software/storm-themes/discussions">Ask a Question</a>
 </div>
 
 <br />
-This package is part of the <b>⚡windie</b> monorepo. The windie packages include CLI utility applications, tools, and various libraries used to create modern, scalable web applications.
+This package is part of the <b>⚡storm-themes</b> monorepo. The storm-themes packages include CLI utility applications, tools, and various libraries used to create modern, scalable web applications.
 <br />
 
 <h3 align="center">💻 Visit <a href="https://stormsoftware.org" target="_blank">stormsoftware.org</a> to stay up to date with this developer</h3><br />
@@ -39,14 +39,14 @@ A package containing the Impact theme design tokens
 Using [pnpm](http://pnpm.io):
 
 ```bash
-pnpm add -D @windie/impact
+pnpm add -D @storm-themes/impact
 ```
 
 <details>
   <summary>Using npm</summary>
 
 ```bash
-npm install -D @windie/impact
+npm install -D @storm-themes/impact
 ```
 
 </details>
@@ -55,7 +55,7 @@ npm install -D @windie/impact
   <summary>Using yarn</summary>
 
 ```bash
-yarn add -D @windie/impact
+yarn add -D @storm-themes/impact
 ```
 
 </details>
@@ -91,18 +91,18 @@ Storm workspaces are built using <a href="https://nx.dev/" target="_blank">Nx</a
 
 ## Roadmap
 
-See the [open issues](https://github.com/storm-software/windie/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/storm-software/storm-themes/issues) for a list of proposed features (and known issues).
 
-- [Top Feature Requests](https://github.com/storm-software/windie/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Top Bugs](https://github.com/storm-software/windie/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Newest Bugs](https://github.com/storm-software/windie/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+- [Top Feature Requests](https://github.com/storm-software/storm-themes/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Top Bugs](https://github.com/storm-software/storm-themes/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Newest Bugs](https://github.com/storm-software/storm-themes/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 ## Support
 
 Reach out to the maintainer at one of the following places:
 
 - [Contact](https://stormsoftware.org/contact)
-- [GitHub discussions](https://github.com/storm-software/windie/discussions)
+- [GitHub discussions](https://github.com/storm-software/storm-themes/discussions)
 - <support@stormsoftware.org>
 
 ## License
@@ -128,7 +128,7 @@ Please try to create bug reports that are:
 
 Please adhere to this project's [code of conduct](.github/CODE_OF_CONDUCT.md).
 
-You can use [markdownlint-cli](https://github.com/storm-software/windie/markdownlint-cli) to check for common markdown style inconsistency.
+You can use [markdownlint-cli](https://github.com/storm-software/storm-themes/markdownlint-cli) to check for common markdown style inconsistency.
 
 ## Contributors
 

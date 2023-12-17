@@ -4,18 +4,18 @@ Storm workspaces are built using <a href="https://nx.dev/" target="_blank">Nx</a
 
 ## Roadmap
 
-See the [open issues](https://github.com/storm-software/windie/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/storm-software/storm-themes/issues) for a list of proposed features (and known issues).
 
-- [Top Feature Requests](https://github.com/storm-software/windie/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Top Bugs](https://github.com/storm-software/windie/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Newest Bugs](https://github.com/storm-software/windie/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+- [Top Feature Requests](https://github.com/storm-software/storm-themes/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Top Bugs](https://github.com/storm-software/storm-themes/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Newest Bugs](https://github.com/storm-software/storm-themes/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 ## Support
 
 Reach out to the maintainer at one of the following places:
 
 - [Contact](https://stormsoftware.org/contact)
-- [GitHub discussions](https://github.com/storm-software/windie/discussions)
+- [GitHub discussions](https://github.com/storm-software/storm-themes/discussions)
 - <support@stormsoftware.org>
 
 ## License
@@ -41,7 +41,7 @@ Please try to create bug reports that are:
 
 Please adhere to this project's [code of conduct](.github/CODE_OF_CONDUCT.md).
 
-You can use [markdownlint-cli](https://github.com/storm-software/windie/markdownlint-cli) to check for common markdown style inconsistency.
+You can use [markdownlint-cli](https://github.com/storm-software/storm-themes/markdownlint-cli) to check for common markdown style inconsistency.
 
 ## Contributors
 

@@ -17,7 +17,7 @@ env:
   CI: true
   NX_VERBOSE_LOGGING: true
   STORM_WORKER: stormie-bot
-  STORM_REPO_URL: https://github.com/storm-software/windie
+  STORM_REPO_URL: https://github.com/storm-software/storm-themes
   STORM_WORKSPACE_ROOT: ${{ github.workspace }}
   NX_BASE: ${{ github.base_ref }}
   NX_HEAD: ${{ github.head_ref }}
@@ -27,7 +27,7 @@ env:
 
 jobs:
   build-release:
-    if: github.repository == 'storm-software/windie' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/next' || github.ref == 'refs/heads/alpha' || github.ref == 'refs/heads/beta')
+    if: github.repository == 'storm-software/storm-themes' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/next' || github.ref == 'refs/heads/alpha' || github.ref == 'refs/heads/beta')
     name: "Build & Release"
     runs-on: ubuntu-latest
     steps:

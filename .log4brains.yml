@@ -1,5 +1,5 @@
 project:
-  name: windie
+  name: storm-themes
   tz: America/New_York
   adrFolder: ./docs/decisions
   packages: []

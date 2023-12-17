@@ -22,14 +22,14 @@
   },
   "packageRules": [
     {
-      "matchPackagePatterns": ["^@windie/"],
+      "matchPackagePatterns": ["^@storm-themes/"],
       "enabled": true
     },
     {
       "matchPackageNames": ["@nx"],
       "postUpgradeTasks": {
         "commands": [
-          "npx nx migrate latest --run-migrations --create-commits --commit-message='chore(windie): update @nx dependencies [skip ci]'"
+          "npx nx migrate latest --run-migrations --create-commits --commit-message='chore(storm-themes): update @nx dependencies [skip ci]'"
         ]
       }
     },
