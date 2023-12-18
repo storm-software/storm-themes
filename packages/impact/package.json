@@ -1,6 +1,6 @@
 {
   "name": "@storm-themes/impact",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": false,
   "description": "☄️ A package containing the Impact theme design tokens. This is the primary theme used by Storm Software applications.",
   "repository": {
