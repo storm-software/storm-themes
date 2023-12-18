@@ -1,8 +1,8 @@
 {
   "name": "@storm-themes/impact",
   "version": "0.0.1",
-  "private": true,
-  "description": "⚡ The storm-themes monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.",
+  "private": false,
+  "description": "☄️ A package containing the Impact theme design tokens. This is the primary theme used by Storm Software applications.",
   "repository": {
     "type": "github",
     "url": "https://github.com/storm-software/storm-themes.git",

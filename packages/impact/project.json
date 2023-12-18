@@ -13,6 +13,7 @@
         "tsConfig": "packages/impact/tsconfig.json",
         "project": "packages/impact/package.json",
         "defaultConfiguration": "production",
+        "platform": "neutral",
         "assets": [
           {
             "input": "packages/impact",
@@ -29,8 +30,7 @@
             "glob": "tokens.json",
             "output": "/"
           }
-        ],
-        "platform": "neutral"
+        ]
       },
       "configurations": {
         "production": {
